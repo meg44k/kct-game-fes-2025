@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 2025 高専ゲーム祭プロジェクト
 
-## Getting Started
+## 概要
 
-First, run the development server:
+高専でゲームの強さ1位を争う**裏高専祭**を行うためのサイトだったりシステムだったりをまとめたリポジトリです
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 開催時期 :calendar:
+***
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+12月26日 ~ 12月28日 (伸びたり前後したりするかも)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+### ゲーム :video_game:
 
-To learn more about Next.js, take a look at the following resources:
+***
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ゲームタイトルは現在以下の内容を考えています。ただ、要望に応じて追加していく予定です。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- VALORANT
+- ApexLegends
+- CrashRoyal
+- Splatoon
+- StreetFighter6
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## 開発を手伝ってくれる人にむけて
+このプロジェクトでは、**開発経験がない人**、**プログラミングが気になっている人**を大歓迎しています:tada:。
+
+作ってほしい画面やシステムなどが[[Issues]](https://github.com/meg44k/kct-game-fes-2025/issues)にのっているので、「できそうだな」と思うものから手をつけてもらうとありがたいです!
+
+**タスク**や**ノルマ**はありません:clap:! 基本的に@meg44kがちょっとずつ進めているので暇なときに手伝ってもらえるとありがたいです!
+
+本プロジェクトの要求、アーキテクチャや設計、仕様等は[ここ](./documents/PROJECT.md)にのせておくので気になったら見てもらえると嬉しい。
+
+わからないことはどんどん聞いて下さい。
